@@ -6,7 +6,8 @@ created a website that uses semantic html elements.web page uses universal,eleme
   ##Notes:1. Create a new repository on your GitHub account and clone it to your computer.
           2. When you're ready to deploy, use the `git add`, `git commit`, and `git push` commands to save and push your code to your GitHub repository.
 
-          3. Navigate to your GitHub repository in the browser and then select the Settings tab on the right side of the page.
+          3. Navigate to your GitHub repository in the browser and then selec![mini project scrreen shot](https://user-images.githubusercontent.com/41078587/146655466-0cd9db07-8ab0-4aef-87a7-68c7e893f2ca.png)
+t the Settings tab on the right side of the page.
 
           4. On the Settings page, select Pages on the left side of the page. On the GitHub Pages screen, choose `main` in the dropdown under Source.
 
@@ -14,3 +15,4 @@ created a website that uses semantic html elements.web page uses universal,eleme
         You can also refer to this [YouTube video on enabling GitHub Pages](https://youtu.be/P4Mu1t5rIXg) for more guidance.
   
  
+![mini project scrreen shot](https://user-images.githubusercontent.com/41078587/146655478-145a3672-f6f8-4276-9f06-ff794985caa9.png)
