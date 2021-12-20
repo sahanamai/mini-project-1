@@ -9,7 +9,7 @@
     font-family: "Goudy Bookletter 1911", sans-serif;
     font-size: 20px;
     background-color:rgb(233, 233, 192);
-    color: burlywood;
+    color: rgb(80, 69, 54);
   }
   
   h1,
@@ -29,7 +29,7 @@
   
   a {
     text-decoration: none;
-    color: #FDF8F5;
+    color: #22201f;
   }
   
   header,
@@ -37,12 +37,12 @@
     height: 60px;
     width: 100%;
     line-height: 60px;
-    background-color: #b8d4cd;
+    background-color: #5d706b;
   }
   
   header {
     position: fixed;
-    border-bottom: 10px solid #dba687;
+    border-bottom: 10px solid #e0986e;
   }
   
   footer {
@@ -50,7 +50,7 @@
     margin-top: 0;
     bottom: 0;
     border-bottom: 10px solid rgb(77, 72, 72);
-    color: #FDF8F5;    
+    color: #473f3a;    
   }
   
   figure {
@@ -65,8 +65,8 @@
   section {
     margin-bottom: 0;
     padding: 20px 10px 40px 10px;
-    border-top: 3px solid #d6a78b;
-    background-color:  #E8CEBF;
+    border-top: 2px solid #da9872;
+    background-color:  #c29d88;
   }
   
   form {
@@ -74,7 +74,7 @@
     margin: 0 auto;
     width: 500px;
     padding: 10px;
-    border: 5px solid #DDAF94;
+    border: 5px solid #d3beb0;
     border-radius: 20px;
   }
   
