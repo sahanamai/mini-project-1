@@ -15,4 +15,4 @@ t the Settings tab on the right side of the page.
         You can also refer to this [YouTube video on enabling GitHub Pages](https://youtu.be/P4Mu1t5rIXg) for more guidance.
   
  
-![mini project scrreen shot](https://user-images.githubusercontent.com/41078587/146655478-145a3672-f6f8-4276-9f06-ff794985caa9.png)
+
